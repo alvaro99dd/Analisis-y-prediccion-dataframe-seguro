@@ -1,5 +1,6 @@
 # Analisis y prediccion dataframe seguro
 ![Alt text](https://d31dn7nfpuwjnm.cloudfront.net/images/valoraciones/0049/7296/seguros_que_debemos_tener_500_foro.jpg?1655183944 "cloudfront.net")
+
 Usando un conjunto de datos ficticio sobre los clientes de una aseguradora, realizamos un análisis exploratorio del mismo y entrenamos a un modelo predictivo.
 Nuestro objetivo será ver si los datos son suficientes para predecir el estado de las pólizas de clientes nuevos.
 
